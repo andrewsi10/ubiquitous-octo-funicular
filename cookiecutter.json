@@ -1,7 +1,7 @@
 {
     "dir_name": "testing",
     "file_name": "test",
-    "print_string": "world"
+    "print_string": "world",
     "version": "0.0.1"
 }
 
